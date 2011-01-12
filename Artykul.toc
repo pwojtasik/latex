@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Tekst}{2}
+\contentsline {subsection}{\numberline {1.1}Formatowanie tekstu}{2}
+\contentsline {subsection}{\numberline {1.2}Tabele}{2}
+\contentsline {section}{\numberline {2}Obrazki}{2}
+\contentsline {subsection}{\numberline {2.1}Wy\'swietlanie}{2}
+\contentsline {subsection}{\numberline {2.2}Otoczenie tekstem}{3}
+\contentsline {section}{\numberline {3}Matematyka}{4}
+\contentsline {section}{\numberline {4}Bibliografia}{5}
